@@ -8,9 +8,6 @@ end
 def find_max_value(array)
   # Add your solution here
   array.max
-  puts find_max_value.max
-  
-   find_max_value.max
 end
   
 
