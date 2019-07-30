@@ -8,7 +8,7 @@ end
 def find_max_value(array)
   # Add your solution here
   find_max_value = [2,3,4,5]
-   find_max_value.max(1)
+   find_max_value.max
 end
   
 
